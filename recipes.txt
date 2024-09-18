@@ -17,3 +17,5 @@ Near by Stores
 1.mee buddy shop
 2.Amazon shop
 3.pullarao shop
+4. Zomato 
+5. swiggy 
